@@ -24,6 +24,6 @@ To install OS in VM Virtual Box on Windows
 10.After Installing Enter Your Password 
 ![](10.png)
 11.Now we can see the Home Screen of our Installed Ubuntu OS 
-![](11.png)
+
 ## Result
-Thus, OS is installed in VM Virtual Box on Windows
+Thus, OS is installed in VM Virtual Box on Windows.
